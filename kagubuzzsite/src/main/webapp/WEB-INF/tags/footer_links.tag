@@ -1,0 +1,1 @@
+<%@taglib prefix="kagutags" tagdir="/WEB-INF/tags"%>

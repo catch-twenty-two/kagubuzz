@@ -1,0 +1,1 @@
+Your event "$post_title$" is about to expire!

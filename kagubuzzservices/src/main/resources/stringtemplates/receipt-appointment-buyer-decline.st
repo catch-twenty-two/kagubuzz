@@ -1,0 +1,1 @@
+Your offer of \$$offer$.00 on the ad "$adtitle$" was declined by $sellername$. Feel free to make another offer if the item is still available.

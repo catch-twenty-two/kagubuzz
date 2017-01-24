@@ -1,0 +1,1 @@
+Thinking on offer '$adtitle$' from $buyername$$buyer_rep$,$sms_offer$.Reply '#$accept$' to accept, '#$decline$' to decline, within 3 days

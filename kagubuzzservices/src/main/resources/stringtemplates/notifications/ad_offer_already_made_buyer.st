@@ -1,0 +1,1 @@
+Your offer has been sent to $sellername$! Please keep in mind: An offer has already been accepted on this item, so you may not be at the front of the line right now.

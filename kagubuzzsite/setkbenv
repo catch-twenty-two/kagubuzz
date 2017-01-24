@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export DATABASE_URL=postgres://kagubuzz:highflying@localhost:5432/kagubuzzlocal
+export KB_USER_FILESYSTEM=dev
+export MANDRILL_APIKEY=TA4w3jKLFEcpDKoY-O5Elg
+export MANDRILL_USERNAME=kagu.buzz@kagubuzz.com
+export MONGOHQ_URL=mongodb://test:password@localhost:27017/testdb
+export SERVER_URL=localhost:8080

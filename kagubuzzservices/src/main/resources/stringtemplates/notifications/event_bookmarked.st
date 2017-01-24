@@ -1,0 +1,1 @@
+The event &ldquo;$event_title$&rdquo; was bookmarked and will now show up on your homepage under 'Bookmarks and Ratings'. You will also receive a reminder the day before the event. Have fun!

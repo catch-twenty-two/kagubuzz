@@ -1,0 +1,1 @@
+Friendly reminder, share the love, log in and rate your exchange with $other_party$ for the ad "$adtitle$"

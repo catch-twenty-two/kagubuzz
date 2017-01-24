@@ -1,0 +1,1 @@
+New Answer for Your Question About Ad "$ad_title$".

@@ -1,0 +1,1 @@
+Offer for '$adtitle$' from $buyername$$buyer_rep$,$sms_offer$.Reply '#$thinkonit$' to think on it, '#$accept$' to accept, '#$decline$' to decline

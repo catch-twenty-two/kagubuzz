@@ -1,0 +1,26 @@
+.manage-option {
+	margin: 0px 5px 0px 5px;
+}
+
+.post-well {
+	margin: 0px 0px 5px 0px;
+}
+
+.manage-background {
+    background-color: yellow
+}
+
+.manage-row
+{
+    text-decoration: none;
+    list-style-type: none;
+    border-width: 1px;
+    border-color: #CACACA;
+    border-style: solid;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 0px 0px 5px 5px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.067);
+    padding: 5px;
+    margin: 0px 0px 5px 0px;
+}

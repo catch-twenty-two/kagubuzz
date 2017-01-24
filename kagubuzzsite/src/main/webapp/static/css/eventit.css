@@ -1,0 +1,45 @@
+#leftdiv {
+	width: 300px;
+	margin-right: 5px;
+	float: left;
+}
+
+#contentoptionleftdiv {
+	width: 445px;
+	padding: 0px;
+	float: left;
+}
+
+#whereisit {
+	background-image: url("../images/wordledark.png");
+	color: #9B1E1E;
+	margin-bottom: 5px;
+}
+
+#tellusaboutit {
+	width: 635px;
+    background-image: url("../images/wordledark.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    float: left;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#contentoptional {
+	width: 635px;
+	float: left;
+}
+
+.maincontentul {
+	margin-right: 20px;
+	text-decoration: none;
+	list-style-type: none;
+	float: left;
+}
+
+.radiobutton {
+	width: 10px;
+}

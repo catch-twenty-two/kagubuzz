@@ -1,0 +1,1 @@
+Your $post_type$ rating was saved! Thank you for the feedback.

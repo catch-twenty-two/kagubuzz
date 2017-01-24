@@ -1,0 +1,22 @@
+#leftdiv {
+	width: 635px;
+	margin-right:5px;
+	float: left;
+}
+
+.contentviewtitle {
+	border: solid #CACACA;
+	border-width: 0px 0px 0px 0px;
+	margin-bottom:5px;
+}
+
+.contentviewdate {
+
+    vertical-align: middle;
+    padding: 5px 0px;
+}
+
+.contentviewlocation {
+    width: 300px;
+    float: left;
+}

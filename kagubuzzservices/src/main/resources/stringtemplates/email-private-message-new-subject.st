@@ -1,0 +1,1 @@
+Kagu Buzz private message from $sender_name$ "$message_title$"

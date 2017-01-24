@@ -1,0 +1,1 @@
+Your offer is too low, considering the asking price! Please re-enter a higher offer.

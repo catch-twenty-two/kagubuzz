@@ -1,0 +1,1 @@
+The ad &ldquo;$ad_title$&rdquo; was bookmarked and will now appear on your homepage under 'Bookmarks and Ratings'. Good luck!

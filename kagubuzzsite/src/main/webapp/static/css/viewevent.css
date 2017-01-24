@@ -1,0 +1,38 @@
+#leftdiv {
+	width: 635px;
+	margin-right:5px;
+	float: left;
+}
+
+.contentviewbody {
+    overflow: auto;
+    height: 400px;
+}
+
+.contentviewtitle {
+	text-align: center;
+	border: solid #CACACA;
+	border-width: 0px 0px 1px 0px;
+}
+
+.contentviewdate {
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 5px;
+}
+
+.contentviewlocation {
+    width: 300px;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.contentprofile {
+    width: 300px;
+    float: left;
+}
+
+.addmarginbottom
+{
+	margin-bottom:5px;
+}

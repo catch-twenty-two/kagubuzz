@@ -1,0 +1,45 @@
+# Email service
+
+emailservice.blockoutgoingemail=false
+
+# Nexmo Credentials
+
+nexmo.username=
+nexmo.password=
+nexmo.blockoutgoingsms=false
+nexmo.sms_phone_number=
+
+path.userfiles=user-directories
+path.tempfiles=tmp
+path.rootdir=kagu-buzz-staging
+
+#Amazon S3 Credentials
+
+amazons3.awsaccesskey=
+amazons3.awssecretkey=
+amazons3.remoterootaddress=
+amazons3.kagubucket=kagu-buzz-staging
+
+#Facebook Credentials
+
+facebook.clientid=
+facebook.clientsecret=
+
+#Google Plus Credentials
+
+google.clientid=
+google.clientsecret=
+
+#reCaptcha Access
+
+recaptcha.publickey 
+recaptcha.privatekey 
+
+#Other Settings
+
+kagubuzz.iphistory=15
+kagubuzz.event_post_expire=30
+kagubuzz.ad_post_expire=30
+
+#Ads
+google.ads=false

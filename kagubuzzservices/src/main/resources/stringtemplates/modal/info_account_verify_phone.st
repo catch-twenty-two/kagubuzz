@@ -1,0 +1,2 @@
+title() ::="Verifying Your Phone Number..."
+body() ::="We just sent you a text. Once you receive the text reply back with '<strong>#kagubuzz</strong>' to verify your number. Don't forget the '#' sign."

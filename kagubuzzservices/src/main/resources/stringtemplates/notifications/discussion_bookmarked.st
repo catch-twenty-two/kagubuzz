@@ -1,0 +1,1 @@
+Welcome to the conversation! The discussion &ldquo;$discussion_title$&rdquo; was bookmarked and will now show up on your homepage under 'Bookmarks and Ratings'. As a participant, you will also receive a notification when ever anyone adds to the conversation.

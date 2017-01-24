@@ -1,0 +1,1 @@
+An offer for '$adtitle$' was already accepted. To accept a new offer, log in and cancel the currently accepted offer.

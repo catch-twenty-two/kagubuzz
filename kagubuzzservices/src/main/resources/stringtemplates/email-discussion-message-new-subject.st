@@ -1,0 +1,1 @@
+New post to the discussion "$post_title$"

@@ -1,0 +1,1 @@
+Oops! You have already accepted, declined, or chosen to think on this offer for this ad. You'll have to wait until the buyer makes a new offer in order to accept, decline or think on the offer again. 

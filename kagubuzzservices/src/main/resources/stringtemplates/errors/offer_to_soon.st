@@ -1,0 +1,1 @@
+Sorry, you can't make another offer on this item so soon. At least ten minutes must pass since your last offer before you can make a new one.

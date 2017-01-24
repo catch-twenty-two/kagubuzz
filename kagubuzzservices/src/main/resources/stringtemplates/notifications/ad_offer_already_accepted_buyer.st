@@ -1,0 +1,1 @@
+No need to offer again friend, your offer has already been accepted by $sellername$! Contact him or her through your homepage by clicking on the "Offer Accepted" notification there.

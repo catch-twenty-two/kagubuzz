@@ -1,0 +1,1 @@
+Post "$post_title$" Renewed

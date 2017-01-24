@@ -1,0 +1,2 @@
+title() ::="Please Sign In"
+body() ::="We know you could really use this! But we need to know who you are before you ask the seller about it. Please sign in or create an account to make an offer.<br><br>Thanks!"

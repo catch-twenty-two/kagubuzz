@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans 	xmlns="http://www.springframework.org/schema/beans"
+    	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    	xmlns:jdbc="http://www.springframework.org/schema/jdbc"
+    	xmlns:context="http://www.springframework.org/schema/context"
+    	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+    	http://www.springframework.org/schema/context
+    	http://www.springframework.org/schema/context/spring-context-3.0.xsd
+    	http://www.springframework.org/schema/jdbc 
+    	http://www.springframework.org/schema/jdbc/spring-jdbc-3.0.xsd">
+    
+    <!-- Switch File system beans depending on where we are loading this app (prod, staging, or dev) -->
+    
+    <import resource="${KB_USER_FILESYSTEM}-filesystem-beans.xml"/>
+    
+    <context:component-scan base-package="com.kagubuzz.services" />    
+   	<context:component-scan base-package="com.kagubuzz.spring.social" />
+
+    <context:property-placeholder location="classpath:${KB_USER_FILESYSTEM}-service-properties"/>
+      
+    <!-- Hibernate interface for spring authentication definitions -->
+    
+    <bean id="daoAuthenticationProvider" class="org.springframework.security.authentication.dao.DaoAuthenticationProvider">
+  		<property name="userDetailsService" ref="userDetailsService"/>
+	</bean>
+
+	<bean id="authenticationManager" class="org.springframework.security.authentication.ProviderManager">
+  		<property name="providers">
+    		<list>
+      			<ref local="daoAuthenticationProvider" />
+    		</list>
+  		</property>
+	</bean>
+
+	<bean id="userDetailsService" class="com.kagubuzz.spring.hibernate.UserDetailsServiceImpl"/>
+	<bean id="springSecurityUtilities" class="com.kagubuzz.spring.utilities.SpringSecurityUtilities"/>
+	
+	<!-- Mail Sender Definitions -->
+
+	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+		<property name="host" value="smtp.mandrillapp.com" />
+		<property name="port" value="587" />
+		<property name="username" value="#{systemEnvironment['MANDRILL_USERNAME']}" />
+		<property name="password" value="#{systemEnvironment['MANDRILL_APIKEY']}" />
+		<property name="javaMailProperties">
+			<props>
+	       		<prop key="mail.smtp.auth">true</prop>
+	       	    	<prop key="mail.smtp.starttls.enable">true</prop>
+	    	</props>
+		</property>
+	</bean>    
+</beans>

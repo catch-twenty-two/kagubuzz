@@ -1,0 +1,1 @@
+Woah, Nelly! Part of the purpose of Kagu Buzz is to protect your privacy. Therefore, we do not allow contact information,  such as email addresses, phone numbers, or snail mail addresses in ads. These allow people to bypass our system. We have detected $contact_information$ in your ad. Please remove it before continuing. Thanks!

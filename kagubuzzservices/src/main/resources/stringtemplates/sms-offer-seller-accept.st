@@ -1,0 +1,1 @@
+Offer for '$adtitle$' by $buyername$ accepted! Offer: $sms_offer$. Rep: $buyer_rep$ $buyername$ can be reached via $buyercontactmethod$ at $buyercontactdetails$. 

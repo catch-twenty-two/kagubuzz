@@ -1,0 +1,1 @@
+Your offer has been sent to $sellername$! Check your Kagu Buzz notifications inbox for more details.

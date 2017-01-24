@@ -1,0 +1,48 @@
+#leftdiv {
+	width: 300px;
+	margin-right: 5px;
+	float: left;
+}
+
+#whereisit {
+	width: 940px;
+	margin-top:5px;
+	background-image: url("../images/wordlelight.png");
+}
+
+#tellusaboutit {
+    background-image: url("../images/wordlelight.png");
+    background-position: center;
+}
+
+
+#contentoptional {
+	width: 635px;
+	float: left;
+}
+
+.maincontentul {
+	margin-right: 20px;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.radiobutton {
+	width: 10px;
+}
+
+#thumbnailholder
+{
+	width: 50%;
+    margin: 0px auto;
+    height: 190px;
+    width: 400px;
+    text-align: center;
+}
+
+.extraoptionsrow
+{
+    padding-bottom: 5px;
+    padding-top: 0px;
+    padding-left: 5px;
+}

@@ -1,0 +1,1 @@
+Your Kagu Buzz account has been created! Please check your email to activate and log in to your account.

@@ -1,0 +1,1 @@
+Offer of $offer$.00 was made on your ad "$adtitle$".

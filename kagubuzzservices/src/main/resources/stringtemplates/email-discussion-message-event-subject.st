@@ -1,0 +1,1 @@
+New event discussion started "$post_title$"

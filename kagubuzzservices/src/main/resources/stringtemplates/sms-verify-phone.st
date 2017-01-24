@@ -1,0 +1,1 @@
+Hi $recipient_name$, it's me Kagu Buzz. To verify your phone number please reply '#kagubuzz'. Thanks!

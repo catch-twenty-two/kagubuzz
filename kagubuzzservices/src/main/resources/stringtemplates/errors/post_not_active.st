@@ -1,0 +1,1 @@
+Sorry, this $post_type$ is no longer active and has been removed by the original poster or the system.

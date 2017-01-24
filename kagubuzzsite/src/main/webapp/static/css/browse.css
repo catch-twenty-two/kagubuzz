@@ -1,0 +1,76 @@
+/* css for timepicker */
+.ui-timepicker-div .ui-widget-header {
+	margin-bottom: 8px;
+}
+
+.ui-timepicker-div dl {
+	text-align: left;
+}
+
+.ui-timepicker-div dl dt {
+	height: 25px;
+	margin-bottom: -25px;
+}
+
+.ui-timepicker-div dl dd {
+	margin: 0 10px 10px 65px;
+}
+
+.ui-timepicker-div td {
+	font-size: 90%;
+}
+
+.ui-tpicker-grid-label {
+	background: none;
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+.listing-address {
+}
+
+.listing-coordinates{	
+}
+
+.browse-list
+{
+    margin-bottom: 0px;
+    border-width: 1px 0px 0px 0px;
+    border-style: solid;
+    border-color: rgb(229, 229, 229);
+    border-radius: 0px 0px 0px 0px;
+}
+
+.browse-list-inner
+{
+	background-color: white;
+	border-top-style: dashed;
+	padding: 3px 0px 5px 3px;
+}
+
+.browse-list-thumbnail
+{
+	background: #D8D8D8;
+	-moz-box-shadow:    0px 2px 4px rgba(0,0,0,0.50);
+	-webkit-box-shadow: 0px 2px 4px rgba(0,0,0,0.50);
+	box-shadow:         0px 2px 4px rgba(0,0,0,0.50);
+	 padding-left: 1px;
+    margin-left: -1px;
+	height:45px;
+}
+
+.div-vertical-rule-left.quick-info
+{
+	width: 550px;
+}
+
+.div-vertical-rule-left.comment
+{
+	width: 550px;
+}
+
+.affix.browseaffix
+{
+	top:-5px;
+}

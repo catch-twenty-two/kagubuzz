@@ -1,0 +1,1 @@
+\$$offer$ offered for '$adtitle$' by $buyername$ ($buyerreputationpoints$). Reply with '#$thinkonit$' - think on it, '#$accept$' - accept, '#$decline$' - decline.

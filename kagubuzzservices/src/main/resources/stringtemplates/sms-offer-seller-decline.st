@@ -1,0 +1,1 @@
+Offer for '$adtitle$' by $buyername$ declined. Offer: $sms_offer$

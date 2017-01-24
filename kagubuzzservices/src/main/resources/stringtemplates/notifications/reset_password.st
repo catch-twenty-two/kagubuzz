@@ -1,0 +1,1 @@
+Check your email. You should receive instructions on how to reset your password in your email inbox in 3 to 5 minutes. Thank you.

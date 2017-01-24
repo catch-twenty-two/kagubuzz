@@ -1,0 +1,1 @@
+Offer of \$$offer$.00 for '$adtitle$' by $buyername$ accepted! $buyername$ can be reached via $buyercontactmethod$ at $buyercontactdetails$. 

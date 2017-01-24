@@ -1,0 +1,1 @@
+Your $post_type$ rating was saved! Thank you for the feedback. Since you've accepted this offer and are now leaving feedback, your item has automatically been marked as complete and removed from the listings. How easy was that!?

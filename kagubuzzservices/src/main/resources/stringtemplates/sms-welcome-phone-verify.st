@@ -1,0 +1,1 @@
+Your number has been verified! As a reminder of who this is please save us in your contacts as 'Kagu Buzz'.

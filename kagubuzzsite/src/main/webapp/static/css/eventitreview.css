@@ -1,0 +1,50 @@
+#leftdiv {
+	width: 605px;
+	padding: 0px;
+	margin-right: 2px;
+	float: left;
+}
+
+#contentpreview {
+    width: 585px;
+    height: 575px;
+    margin-bottom: 1px;
+    padding: 10px;
+    overflow: auto;
+}
+
+#contentpreviewtitle {
+	text-align: center;
+}
+
+#contentpreviewdate {
+    width: 605px;
+    height: 40px;
+    margin-top: 1px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 5px;
+}
+
+#contentpreviewaddress{
+
+}
+
+#contentpreviewlocation {
+    width: 316px;
+    height: 390px;
+    float: left;
+    margin-left: 1px;
+    margin-bottom: 1px;
+    padding: 0px 10px 10px 10px;
+}
+
+
+#contentprofile {
+	background-image: url("../images/star.png");
+	background-image: repeat-none;
+    width: 335px;
+    height: 240px;
+    float: left;
+    margin-left: 1px;
+}
