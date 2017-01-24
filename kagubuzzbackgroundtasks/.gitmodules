@@ -1,0 +1,15 @@
+[submodule "KaguBuzzUtilities"]
+	path = KaguBuzzUtilities
+	url = https://hkagubuzz:heroku12345@bitbucket.org/kagubuzz/kagubuzzutilities.git
+[submodule "KaguBuzzDaos"]
+	path = KaguBuzzDaos
+	url = https://hkagubuzz:heroku12345@bitbucket.org/kagubuzz/kagubuzzdaos.git
+[submodule "KaguBuzzDataModels"]
+	path = KaguBuzzDataModels
+	url = https://hkagubuzz:heroku12345@bitbucket.org/kagubuzz/kagubuzzdatamodels.git
+[submodule "KaguBuzzServices"]
+	path = KaguBuzzServices
+	url = https://hkagubuzz:heroku12345@bitbucket.org/kagubuzz/kagubuzzservices.git
+[submodule "KaguBuzzBackgroundTasks"]
+	path = KaguBuzzBackgroundTasks
+	url = https://hkagubuzz:heroku12345@bitbucket.org/kagubuzz/kagubuzzbackgroundtasks.git
